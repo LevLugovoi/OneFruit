@@ -1,61 +1,67 @@
 body {
   background-color: rgb(27, 26, 26);
-  font-family: sans-serif;
-  margin: 0;
-  padding: 0;
 }
 
 header {
   background-color: rgb(0, 115, 255);
-  padding: 15px;
+  padding: 5px;
   color: rgb(191, 255, 0);
-  text-align: center;
 }
 
 main {
   background-color: brown;
-  width: 90%;
-  max-width: 500px;
-  margin: 20px auto;
-  padding: 15px;
-  color: rgb(255, 255, 255);
-  border-radius: 10px;
+  width: 400px;
+  margin: auto;
+  padding: 10px;
+  color: rgb(116, 178, 0);
 }
 
 footer {
-  background-color: #333;
-  color: white;
+  background-color: brown;
+  color: black;
   padding: 10px;
-  text-align: center;
-  margin-top: 30px;
+  margin: auto;
+  border: 1px solid black;
 }
 
-div.Discord {
-  margin-top: 15px;
-  padding: 15px;
+div {
+  margin-top: 10px;
+  padding: 10px;
+  border-bottom: 1px solid green;
   border: 5px solid black;
   border-radius: 15px;
   background-color: rgb(88, 88, 88);
-  color: black;
+}
+
+
+.ad {
+  background-color: aquamarine;
 }
 
 img {
   width: 100%;
-  border-radius: 8px;
-  margin: 10px 0;
 }
 
-a {
-  display: inline-block;
-  background-color: #5865F2;
-  color: white;
-  padding: 10px 20px;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 5px;
+#profile-picture {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+
+#profile-name {
   font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  border-bottom: 1px solid black;
+  font-size: 20px;
 }
 
-a:hover {
-  background-color: #4752C4;
+h2 {
+  color: #fffcf2;
+  background-color: #403d39;
+  text-align: center;
+  font-size: 30px;
 }
+.Discord {
+  background-color: aquamarine;
+}
+h3
