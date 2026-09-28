@@ -1,6 +1,5 @@
 body {
   background-color: rgb(27, 26, 26);
-  width: 200px;
 }
 
 header {
@@ -11,7 +10,7 @@ header {
 
 main {
   background-color: brown;
-  width: 200px;
+  width: 400px;
   margin: auto;
   padding: 10px;
   color: rgb(116, 178, 0);
