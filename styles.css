@@ -6,6 +6,8 @@ header {
   background-color: rgb(0, 115, 255);
   padding: 5px;
   color: rgb(191, 255, 0);
+  width: 400px;
+  margin: auto;
 }
 
 main {
@@ -22,6 +24,8 @@ footer {
   padding: 10px;
   margin: auto;
   border: 1px solid black;
+  width: 400px;
+  margin: auto;
 }
 
 div {
